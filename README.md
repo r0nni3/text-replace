@@ -18,10 +18,12 @@ The dictionary should have the form:
 
 ### example:
 
+```csv
 Hello,Hola
 Hello,Hola
 Hello,Hola
 Hello,Hola
+```
 
 The default separator is TAB('\t') others must be specified on the
 LoadDictionary function.

@@ -8,13 +8,15 @@ One per line.
 ## Dictionary
 The dictionary should have the form:
 
+'''
 <target-string><separator><new-string>
 <target-string><separator><new-string>
 <target-string><separator><new-string>
 ...
 <target-string><separator><new-string>
+'''
 
-example:
+### example:
 
 Hello,Hola
 Hello,Hola

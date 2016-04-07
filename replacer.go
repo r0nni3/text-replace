@@ -1,3 +1,5 @@
+// Package text-replacer implements utility routines for
+// replacing text on a target file provided by a dictionary.
 package replacer
 
 import (
